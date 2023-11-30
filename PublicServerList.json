@@ -1,22 +1,6 @@
 [
     {
         "$type": "StaticHttpRegionInfo, Assembly-CSharp",
-        "Name": "梦服上海(新)",
-        "PingServer": "au-sh.pafyx.top",
-        "Servers": [
-            {
-                "Name": "梦服上海(新)",
-                "Ip": "http://au-sh.pafyx.top",
-                "Port": 22000,
-                "UseDtls": false,
-                "Players": 0,
-                "ConnectionFailures": 0
-            }
-        ],
-        "TranslateName": 1003
-    },
-    {
-        "$type": "StaticHttpRegionInfo, Assembly-CSharp",
         "Name": "Modded EU (MEU)",
         "PingServer": "https://au-eu.duikbo.at",
         "Servers": [
